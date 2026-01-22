@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tailwind, JavaScript**
 
-- 👨‍💻 All of my projects are available at [{link}]({link})
+- 👨‍💻 All of my projects are available at [{link}](arthur-dev.eu)
 
 - 📫 How to reach me **arthur.lasnier77700@gmail.com**
 
