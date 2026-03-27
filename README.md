@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on [Arthur-dev](https://www.arthur-dev.eu)
+- 🔭 I’m currently working for [Ikovaline](https://ikovaline.com)
 
-- 🌱 I’m currently learning **Tailwind, JavaScript**
+- 🌱 I’m currently learning **Tailwind, React**
 
-- 📫 How to reach me **arthur.lasnier77700@gmail.com**
+- 📫 How to reach me **contact@arthur-dev.eu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
