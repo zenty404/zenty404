@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working for [Ikovaline](https://ikovaline.com)
+- 🔭 I’m currently working for [Shift Agency](www.linkedin.com/in/arthur-lasnier-a5962435a)
 
-- 🌱 I’m currently learning **Tailwind, React**
+- 🌱 I’m currently working on [OnScraper](www.onscraper.fr)
 
 - 📫 How to reach me **contact@arthur-dev.eu**
 
